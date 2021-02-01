@@ -54,13 +54,13 @@ html {
     font-size: 30px;
     font-weight: 900;
     cursor: pointer;
-    animation: top-down 1.5s forwards;
+    animation: top-down 2s forwards;
 }
 
 .cart {
     font-size: 30px;
     cursor: pointer;
-    animation: right-to-left 1.5s forwards;
+    animation: right-to-left 2s forwards;
 }
 
 .menu {
@@ -68,7 +68,7 @@ html {
     height: 30px;
     cursor: pointer; */
     z-index: 101;
-    animation: left-to-right 1.5s forwards;
+    animation: left-to-right 2s forwards;
 }
 
 .hambuger {
@@ -128,7 +128,7 @@ html {
     align-items: center;
     justify-content: center;
     padding: 0 20px;
-    animation: right-to-left 1.5s;
+    animation: right-to-left 2s;
 }
 
 .sci i {
@@ -153,7 +153,7 @@ html {
     text-orientation: mixed;
     font-size: 20px;
     font-weight: 600;
-    animation: left-to-right 1.5s;
+    animation: left-to-right 2s;
 }
 
 .z-index-99 {
@@ -299,7 +299,7 @@ html {
     height: 100%;
     align-items: center;
     transition: 1s ease-in-out;
-    animation: bottom-up 2s;
+    animation: bottom-up 2.5s;
 }
 
 .slide:nth-child(1) {
