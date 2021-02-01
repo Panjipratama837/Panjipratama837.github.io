@@ -456,6 +456,10 @@ html {
         align-items: flex-start;
     }
 
+    .info h1 {
+        font-size: 60px;
+    }
+
     .product-info {
         padding: 0 50px;
     }
@@ -469,6 +473,16 @@ html {
     .sci {
         margin-top: -130px;
     }
+
+    .fashion {
+        font-size: 16px;
+    }
+
+    .info button {
+        font-size: 20px;
+    }
+
+
 }
 
 /* End Responsive Tablet */
